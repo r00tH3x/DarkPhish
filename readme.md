@@ -20,8 +20,9 @@ DarkPhish dibuat **hanya untuk tujuan edukasi & penelitian** dalam **lingkungan 
 
 ### 1. Clone Repo
 ```bash
-git clone https://github.com/username/darkphish.git
+git clone https://github.com/r00tH3x/DarkPhish.git
 cd darkphish
+sduo python app.py
 ```
 
 ### 2. Install Dependensi
